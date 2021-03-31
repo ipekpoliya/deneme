@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dosya Yönetim Sistemi2", "Dosya Yönetim Sistemi2\Dosya Yönetim Sistemi2.csproj", "{3432825F-104C-401C-978A-299B7BEC8EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3432825F-104C-401C-978A-299B7BEC8EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3432825F-104C-401C-978A-299B7BEC8EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3432825F-104C-401C-978A-299B7BEC8EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3432825F-104C-401C-978A-299B7BEC8EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C44DC4EF-5509-476D-B867-960B37DF75F8}
+	EndGlobalSection
+EndGlobal
